@@ -1,0 +1,13 @@
+.venv/
+.venv_ui/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+*.pkl
+*.h5
+*.keras
+Data/
+notebooks/
+.agents/
+requirements_current.txt
